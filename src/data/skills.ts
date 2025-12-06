@@ -1,4 +1,3 @@
-import { Cpu, Database, Server } from "lucide-react";
 import { FaReact, FaAngular, FaNodeJs, FaDocker } from "react-icons/fa";
 import { BiLogoTypescript, BiLogoTailwindCss } from "react-icons/bi";
 import { SiDotnet, SiPostgresql } from "react-icons/si";
